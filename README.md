@@ -11,7 +11,7 @@
 </p>
 
 <p align= "center">
-  ### 🔮 About Me
+   🔮 About Me
 </p>
 * 🎓 **Education:** IT Student exploring computer architecture, systems administration, and software development.
 * 🎯 **Main Focus:** **Cybersecurity** *(Offensive/Defensive operations)* & **Artificial Intelligence** *(Machine Learning, Neural Networks)*.
@@ -25,7 +25,7 @@
 </p>
 
 <p align = "center">
-  ### 🛠️ Languages & Scripting
+   🛠️ Languages & Scripting
 </p>
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" height="45" alt="Python" /></a>&nbsp;&nbsp;&nbsp;
@@ -44,7 +44,7 @@
 </p>
 
 <p align = "center">
-  ### 💻 Operating Systems
+   💻 Operating Systems
 </p>
 
 <p align="center">
