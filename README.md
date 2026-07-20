@@ -13,6 +13,7 @@
 <p align= "center">
    🔮 About Me
 </p>
+
 * 🎓 **Education:** IT Student exploring computer architecture, systems administration, and software development.
 * 🎯 **Main Focus:** **Cybersecurity** *(Offensive/Defensive operations)* & **Artificial Intelligence** *(Machine Learning, Neural Networks)*.
 * 🌐 **Web Development:** Designing and building modern web applications from scratch.
