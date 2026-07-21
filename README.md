@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=IT+Student;Cybersecurity+%26+AI+Enthusiast;Linux+%26+Scripting+Adept" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=IT+Student;Cybersecurity+%26+AI;Linux+%26+Scripting" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
    🔮 About Me
 </p>
 
-* 🎓 **Education:** IT Student exploring computer architecture, systems administration, and software development.
-* 🎯 **Main Focus:** **Cybersecurity** *(Offensive/Defensive operations)* & **Artificial Intelligence** *(Machine Learning, Neural Networks)*.
-* 🌐 **Web Development:** Designing and building modern web applications from scratch.
-* ⚡ **Command-Line:** Hands-on experience with Linux administration, task automation, and terminal scripting.
+* 🎓 **Education:** IT Student exploring computer systems.
+* 🎯 **Main Focus:** **Cybersecurity** *(Red teaming)* & **Artificial Intelligence** *(Machine Learning, Neural Networks)*.
+* 🌐 **Web Development:** Building web applications from scratch.
+* ⚡ **Command-Line:** Hands-on experience with Linux terminal enviroment.
 
 <br />
 
