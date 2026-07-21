@@ -11,13 +11,13 @@
 </p>
 
 <p align= "center">
-   🔮 About Me
+    About Me
 </p>
 
-* 🎓 **Education:** IT Student exploring computer systems.
-* 🎯 **Main Focus:** **Cybersecurity** *(Red teaming)* & **Artificial Intelligence** *(Machine Learning, Neural Networks)*.
-* 🌐 **Web Development:** Building web applications from scratch.
-* ⚡ **Command-Line:** Hands-on experience with Linux terminal enviroment.
+* **Education:** IT Student exploring computer systems.
+* **Main Focus:** **Cybersecurity** *(Red teaming)* & **Artificial Intelligence** *(Machine Learning, Neural Networks)*.
+* **Web Development:** Building web applications from scratch.
+* **Command-Line:** Hands-on experience with Linux terminal enviroment.
 
 <br />
 
@@ -26,7 +26,7 @@
 </p>
 
 <p align = "center">
-   🛠️ Languages & Scripting
+   Languages & Scripting
 </p>
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" height="45" alt="Python" /></a>&nbsp;&nbsp;&nbsp;
@@ -45,7 +45,7 @@
 </p>
 
 <p align = "center">
-   💻 Operating Systems
+   Operating Systems
 </p>
 
 <p align="center">
