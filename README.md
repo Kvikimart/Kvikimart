@@ -62,5 +62,5 @@
 </p>
 
 <p align="center">
-  <sub><i>"Building intelligence, securing systems."</i></sub>
+  <sub><i>"Building intelligence, breaking systems."</i></sub>
 </p>
